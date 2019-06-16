@@ -1,0 +1,30 @@
+header {
+  background: #333;
+  color: white;
+  border-bottom: 2px solid #cacaca;
+  height: 70px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+header h1 {
+  font-size: 28px;
+}
+
+header ul {
+  width: 500px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+  font-size: 18px;
+  align-content: center;
+  height: 50px;
+}
+
+header a {
+  border: none;
+  color: white;
+  text-decoration: none;
+}

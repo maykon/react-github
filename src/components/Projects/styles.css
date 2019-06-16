@@ -1,0 +1,12 @@
+#projects {
+  margin: 20px;
+}
+
+#projects ul {
+  list-style: none;
+}
+#projects ul li {
+  margin-top: 15px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
